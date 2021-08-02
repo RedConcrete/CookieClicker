@@ -1,15 +1,15 @@
 ﻿/*
  * Erstellt mit SharpDevelop.
  * Benutzer: Franz
- * Datum: 14.02.2017
- * Zeit: 15:02
+ * Datum: 11.10.2016
+ * Zeit: 13:54
  * 
  * Sie können diese Vorlage unter Extras > Optionen > Codeerstellung > Standardheader ändern.
  */
 using System;
 using System.Windows.Forms;
 
-namespace Cookie_Clicker_Beta
+namespace Clicker
 {
 	/// <summary>
 	/// Class with program entry point.
